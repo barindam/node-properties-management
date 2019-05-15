@@ -1,7 +1,8 @@
 # node-properties-management
 To Run this application 
 ===========
-npm install
+npm install 
+
 npm start env=environment proprty file name
 
 In this example I have use development.properties
